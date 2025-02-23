@@ -4,19 +4,24 @@
   weight = 10
 
 [[main]]
-  name = "TIL"
+  name = "Learnings"
   pageRef = "til"
   weight = 20
 
 [[main]]
-  name = "About"
-  pageRef = "topics"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
   name = "Uses"
   pageRef = "uses"
   weight = 40
+
+[[main]]
+  name = "About"
+  pageRef = "topics"
+  weight = 50
 
 [[main]]
   name = "Me"

@@ -16,6 +16,8 @@ buildFuture = false
 
 enableEmoji = true
 
+enableGitInfo = true
+
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
@@ -53,10 +55,6 @@ enableEmoji = true
     [[related.indices]]
         name = "series"
         weight = 50
-
-    [[related.indices]]
-        name = "authors"
-        weight = 20
 
     [[related.indices]]
         name = "date"
