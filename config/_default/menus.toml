@@ -21,7 +21,7 @@
 [[main]]
   name = "Me"
   parent = "About"
-  pageRef = "samples"
+  pageRef = "about"
   weight = 10
 
 [[main]]
@@ -29,3 +29,9 @@
   parent = "About"
   pageRef = "publications"
   weight = 20
+
+[[main]]
+  name = "Talks"
+  parent = "About"
+  pageRef = "talks"
+  weight = 30
