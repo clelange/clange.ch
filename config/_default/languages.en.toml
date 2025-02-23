@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Clemens Lange's home page"
+title = "Clemens Lange"
 
 [params]
   displayName = "EN"
@@ -19,8 +19,8 @@ title = "Clemens Lange's home page"
 #  email = "youremail@example.com"
   image = "img/blowfish_logo.png"
   imageQuality = 96
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  headline = "Cloud-native particle physicist"
+  bio = "Physics analysis, particle detector, large-scale computing, and open science at Paul Scherrer Institute on the CMS Experiment at the CERN Large Hadron Collider"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
