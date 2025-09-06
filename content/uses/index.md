@@ -8,7 +8,15 @@ on a regular basis.
 
 ## Editor and Terminal
 
+- [Visual Studio Code](https://code.visualstudio.com/) as editor with
+  [GitHub Copilot](https://github.com/features/copilot)
+- [iTerm2](https://iterm2.com/index.html) as terminal replacement
+- [zsh](https://www.zsh.org/)
+
 ## Desktop Apps
+
+- [Obsidian](https://obsidian.md/) for note-taking and organisation
+- [Orbstack](https://orbstack.dev/) to run Docker containers
 
 ## Computers
 
