@@ -2,6 +2,7 @@
 date = '2025-08-24T09:02:25+02:00'
 draft = false
 title = 'Apptainer on Mac'
+tags = ['Mac', 'computing', 'containers']
 +++
 Even though
 [rootless containers](https://rootlesscontaine.rs/)
